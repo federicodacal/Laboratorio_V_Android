@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Person MVC</string>
+    <string name="name">Enter name</string>
+    <string name="lastName">Enter lastname</string>
+    <string name="sex">Sex</string>
+    <string name="op1">Female</string>
+    <string name="op2">Male</string>
+    <string name="button">Save</string>
+</resources>

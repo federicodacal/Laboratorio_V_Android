@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Persona MVC</string>
+    <string name="name">Ingrese nombre</string>
+    <string name="lastName">Ingrese apellido</string>
+    <string name="sex">Sexo</string>
+    <string name="op1">Femenino</string>
+    <string name="op2">Masculino</string>
+    <string name="button">Guardar</string>
+</resources>
