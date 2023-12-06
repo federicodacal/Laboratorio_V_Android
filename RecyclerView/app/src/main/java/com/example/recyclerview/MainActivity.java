@@ -33,6 +33,10 @@ public class MainActivity extends AppCompatActivity {
         listPersonas.add(new Persona("Perez", "Julieta", "430463"));
         listPersonas.add(new Persona("Gomez", "Julio", "430464"));
         listPersonas.add(new Persona("Perez", "Julia", "430465"));
+        listPersonas.add(new Persona("Ganz", "Hugo", "430465"));
+        listPersonas.add(new Persona("Spaghetti", "Ana Maria", "430465"));
+        listPersonas.add(new Persona("Sanchez", "Juliana", "430465"));
+        listPersonas.add(new Persona("Ramos", "Miguel", "430465"));
 
         AdapterPersona adapterPersona = new AdapterPersona(listPersonas);
         RecyclerView rv = findViewById(R.id.rvPersona);
@@ -40,7 +44,10 @@ public class MainActivity extends AppCompatActivity {
         //LinearLayoutManager llm = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
 
         // Grilla
-        GridLayoutManager glm = new GridLayoutManager(this, 3);
+        //GridLayoutManager glm = new GridLayoutManager(this, 3);
+
+        // Scrolleo horizontal
+        GridLayoutManager glm = new GridLayoutManager(this, 7, LinearLayoutManager.HORIZONTAL, false);
         rv.setLayoutManager(glm);
     }
 
