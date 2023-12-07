@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">APP USUARIOS</string>
+    <string name="title_edit">Edit user</string>
+    <string name="text_name">User</string>
+    <string name="hint_name">JPerez</string>
+    <string name="text_pwd">Password</string>
+    <string name="hint_pwd">****</string>
+    <string name="text_pwd2">Repeat password</string>
+    <string name="text_type">Type</string>
+    <string name="text_admin">Administrator</string>
+    <string name="text_user">User</string>
+    <string name="text_button">Save</string>
+    <string name="text_delete">Delete</string>
+
+    <string name="toast_empty">There are empty fields</string>
+    <string name="toast_pwd">Passwords don\'t match</string>
+    <string name="toast_userLength">The username must be at least 4 characters long</string>
+</resources>

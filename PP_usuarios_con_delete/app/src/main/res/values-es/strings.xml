@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APP USUARIOS</string>
+    <string name="title_edit">Editar usuario</string>
+    <string name="text_name">Usuario</string>
+    <string name="hint_name">JPerez</string>
+    <string name="text_pwd">Contraseña</string>
+    <string name="hint_pwd">****</string>
+    <string name="text_pwd2">Repite la contraseña</string>
+    <string name="text_type">Tipo</string>
+    <string name="text_admin">Administrador</string>
+    <string name="text_user">Usuario</string>
+    <string name="text_button">Guardar</string>
+    <string name="text_delete">Eliminar</string>
+
+    <string name="toast_empty">Hay campos incompletos</string>
+    <string name="toast_pwd">Contraseñas no coinciden</string>
+    <string name="toast_userLength">El nombre de usuario debe ser mayor a 4 caracteres</string>
+</resources>
