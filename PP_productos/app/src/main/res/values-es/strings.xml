@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Productos</string>
+    <string name="amount">Cantidad: </string>
+    <string name="price">Precio: $</string>
+    <string name="product_title">Nombre del producto</string>
+    <string name="hint_product">Producto</string>
+    <string name="btn">Guardar</string>
+    <string name="title_edit">Modificar</string>
+    <string name="title_add">Alta</string>
+    <string name="toast_empty">Campos incompletos</string>
+</resources>
