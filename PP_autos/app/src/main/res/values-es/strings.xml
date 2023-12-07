@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Autos</string>
+    <string name="title_edit">Editar Auto</string>
+    <string name="text_make">Marca del auto</string>
+    <string name="hint_make">Toyota</string>
+    <string name="text_model">Modelo del auto</string>
+    <string name="hint_model">Modelo</string>
+    <string name="text_spinner">Año: </string>
+    <string name="text_button">Editar</string>
+    <string name="toast_empty">Hay campos incompletos</string>
+</resources>

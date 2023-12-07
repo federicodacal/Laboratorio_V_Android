@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Cars</string>
+    <string name="title_edit">Edit Car</string>
+    <string name="text_make">Car brand</string>
+    <string name="hint_make">Toyota</string>
+    <string name="text_model">Car model</string>
+    <string name="hint_model">Model</string>
+    <string name="text_spinner">Year: </string>
+    <string name="text_button">Edit</string>
+    <string name="toast_empty">There are empty fields</string>
+</resources>
